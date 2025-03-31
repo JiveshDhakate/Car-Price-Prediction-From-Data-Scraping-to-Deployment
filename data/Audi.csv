@@ -1,0 +1,385 @@
+Model,Brand,Date of Sale,Sale Price,Year,Mileage,Classification,Transmission,Fuel Type,Description,Sale Location
+Audi A1 (TFSI),Audi,06/01/2024,"€4,800.00",2012,"130,377",Hatchback,Manual,Petrol,Grey Audi A11.4 TFSI Sport Euro 5 (s/s) 3dr2 previous owners,Waterford
+Audi Q7 (S line Plus),Audi,07/01/2024,"€14,450.00",2012,"91,483",SUV,Automatic,Diesel,Blue Audi Q73.0 TDI S line Plus Tiptronic quattro 5dr1 previous owner,Clare
+Audi RS3 (TFSI),Audi,09/01/2024,"€70,256.00",2022,"3,869",Saloon,Automatic,Petrol,Black Audi RS3 SALOON2.5 RS 3 TFSI QUATTRO VORSPRUNG 4d 395 BHP TOP SPEC+S/S SEATS+MATRIX LED2 previous owners,Mayo
+Audi A3 (S line),Audi,09/01/2024,"€10,308.00",2013,"83,389",Hatchback,Manual,Diesel,Black Audi A32.0 TDI S line Hatchback 3dr Diesel Manual Euro 5 (s/s) (150 ps)4 previous owners,Limerick
+Audi A6 Saloon (ultra),Audi,2024-01-09,"€21,833.00",2018,"42,918",Saloon,Automatic,Diesel,Red Audi A6 Saloon2.0 TDI Ultra Black Edition 4dr S Tronic Leather Seats,Dublin
+Audi S3 (TFSI),Audi,2024-01-09,"€20,345.00",2016,73451,Hatchback,Automatic,Petrol,Blue Audi S32.0 TFSI Sportback 5dr Petrol S Tronic quattro Euro 6 (s/s) (310 ps)4 previous owners,Laois
+Audi Q2 (TFSI),Audi,10/01/2024,"€27,307.00",2020,"17,520",SUV,Automatic,Petrol,Audi Q2S line 35 TFSI 150 PS S tronic 1.5 5dr,Dublin
+Audi Q2 (CoD),Audi,10/01/2024,"€19,056.00",2018,"60,224",SUV,Automatic,Petrol,Blue Audi Q21.4 TFSI CoD S line S Tronic Euro 6 (s/s) 5dr1 previous owner,Donegal
+Audi TT (TFSI),Audi,10/01/2024,"€ 7,166",2009,"55,056",Convertible,Manual,Petrol,Red Audi TT2.0 TFSI Roadster 2dr Petrol Manual Euro 4 (200 ps)3 previous owners,Dublin
+Audi Q2 (TFSI),Audi,10/01/2024,"€21,153.00",2018,"32,692",SUV,Manual,Petrol,Navy Audi Q2S line 1.4 TFSI cylinder on demand 150 PS 6-speed 5dr2 previous owners,Cork
+Audi Q2 (CoD),Audi,14/01/2024,"€29,341.00",2021,"10,255",SUV,Automatic,Petrol,Grey Audi Q2S line 35 TFSI 150 PS S tronic 1.5 5dr1 previous owner,Dublin
+Audi A1 (Black Edition),Audi,2024-01-15,"€14,933.00",2016,"31,341",Hatchback,Automatic,Diesel,Navy Audi A11.6 TDI Black Edition S Tronic Euro 6 (s/s) 3dr2 previous owners,Meath
+Audi Q2 (TFSI),Audi,16/01/2024,"€20,366.00",2017,36368,SUV,Automatic,Petrol,Black Audi Q21.4 TFSI (150ps) S-Line (CoD) S Tronic SUV 5dr1 previous owner,Kerry
+Audi S4 (TFSI V6),Audi,2024-01-17,"€ 12,346",2009,"89,140",Saloon,Automatic,Petrol,Grey Audi S43.0 TFSI V6 Saloon 4dr Petrol S Tronic quattro Euro 5 (333 ps)5 previous owners,Cork
+Audi A4 (Black Edition),Audi,17/01/2024,"€20,586.00",2019,"57,654",Saloon,Automatic,Petrol,Red Audi A42.0 TFSI 35 Black Edition Saloon 4dr Petrol S Tronic Euro 6 (s/s) (150 ps)1 previous owner,Limerick
+Audi A3 (TDI),Audi,18/01/2024,"€9,535.00",2015,75898,Hatchback,Manual,Diesel,Grey Audi A3TDI SE TECHNIK 1.6 5dr,Dublin
+Audi A4 (TDI),Audi,18/01/2024,"€17,864.00",2016,"41,328",Saloon,Automatic,Diesel,Black Audi A42.0 TDI 190 Quattro Sport 4dr S Tronic,Dublin
+Audi Q3 (TDI),Audi,19/01/2024,"€17,799.00",2018,"65,776",SUV,Manual,Diesel,Blue Audi Q32L S line Edition TDI 5dr,Donegal
+Audi A4 Avant (TDI),Audi,19/01/2024,"€8,848.00",2011,"72,177",Estate,Automatic,Diesel,Blue Audi A4 Avant2.0 TDI Executive S line Multitronic Euro 4 5dr,Cork
+Audi A3 (S line),Audi,2024-01-20,"€3,480.00",2010,"118,338",Hatchback,Manual,Diesel,Blue Audi A32.0 TDI S line Sportback 5dr Diesel Manual Euro 5 (s/s) (140 ps)4 previous owners,Cork
+Audi Q3 (TDI),Audi,2024-01-20,"€13,423.00",2018,"105,879",SUV,Manual,Diesel,Blue Audi Q32.0 TDI Sport Euro 6 (s/s) 5dr,Laois
+Audi Q2 (TFSI),Audi,20/01/2024,"€22,142.00",2019,"28,311",SUV,Automatic,Petrol,Red Audi Q21.5 TFSI CoD 35 S line SUV 5dr Petrol S Tronic (s/s) (150 ps)2 previous owners,Dublin
+Audi A4 (TFSI),Audi,21/01/2024,"€20,739.00",2017,"22,171",Saloon,Automatic,Petrol,"Black Audi A42.0 TFSI S LINE 4d 188 BHP Euro 6, Heated Seats, 1 Prev Owner",Dublin
+Audi A4 (TDI),Audi,22/01/2024,"€14,793.00",2016,"40,041",Saloon,Manual,Diesel,Black Audi A42.0 TDI ultra SE Euro 6 (s/s) 4dr3 previous owners,Longford
+Audi Q3 (S line),Audi,2024-01-22,"€36,111.00",2021,"20,457 miles",SUV,Automatic,Petrol,Audi Q3 AVANT35 TFSI S Line 5dr S Tronic 1.5,Dublin
+Audi A4 (Black Edition),Audi,2024-01-23,"€18,363.00",2018,"48,786",Saloon,Automatic,Petrol,Red Audi A41.4T FSI Black Edition 4dr S Tronic Saloon,Limerick
+Audi A5 (S line),Audi,24/01/2024,"€34,128.00",2021,"5,224",Hatchback,Automatic,Diesel,Red Audi A5Sportback S line 35 TDI 163 PS S tronic 2.0 5dr,Kerry
+Audi A5 (S line),Audi,2024-01-24,"€12,812.00",2015,"102,434",Hatchback,Automatic,Diesel,Blue Audi A53.0 TDI V6 S line Sportback S Tronic quattro Euro 6 (s/s) 5dr2 previous owners,Carlow
+Audi Q7 (TDI V6),Audi,25/01/2024,"€56,245.00",2019,"22,223",SUV,Automatic,Diesel,Blue Audi Q750 TDI Quattro Vorsprung 5dr 3.0,Cork
+Audi A1 (S line),Audi,2024-01-25,"€7,881.00",2013,"78,971",Hatchback,Manual,Diesel,Silver Audi A11.6 TDI S line Sportback Euro 5 (s/s) 5dr4 previous owners,Meath
+Audi A3 Cabriolet (TDI),Audi,2024-01-25,"€11,804.00",2012,"22,805",Convertible,Automatic,Diesel,Audi A3 Cabriolet2.0 TDI Sport S Tronic 2dr2 previous owners,Dublin
+Audi A1 (TDI),Audi,2024-01-26,"€9,880.00",2013,"77,316",Hatchback,Manual,Diesel,Red Audi A1SPORTBACK TDI S LINE BLACK EDITION 2.0 5dr,Tipperary
+Audi Q2 (S line),Audi,26/01/2024,"€23,040.00",2018,"15,373",SUV,Automatic,Petrol,Blue Audi Q21.4 Tfsi S Line 5Dr S Tronic1 previous owner,Dublin
+Audi TT (S line),Audi,26/01/2024,"€ 15,865",2016,"94,779",Convertible,Automatic,Petrol,Navy Audi TT2.0 TFSI S line+HUGE SPEC+ Roadster 2dr Petrol S Tronic quattro Euro 6 (s/s) (230 ps),Wicklow
+Audi A6 Avant (Black Edition),Audi,27/01/2024,"€12,946.00",2014,"120,051",Estate,Automatic,Diesel,Black Audi A6 Avant2.0 TDI ultra Black Edition S Tronic Euro 6 (s/s) 5dr2 previous owners,Dublin
+Audi Q2 (CoD),Audi,28/01/2024,"€15,262.00",2020,11229,S.U.V.,Manual,Petrol,Red Audi Q21.5 TFSI CoD 35 S line Euro 6 (s/s) 5dr1 previous owner,Dublin
+Audi A7 (TDI V6),Audi,2024-01-30,"€19,416.00",2016,"64,275",Hatchback,Automatic,Diesel,Audi A73.0 TDI V6 ultra S line Sportback S Tronic Euro 6 (s/s) 5dr3 previous owners,Mayo
+Audi A5 (Black Edition Plus),Audi,30/01/2024,"€ 16,815",2016,"59,380",Coupe,Manual,Diesel,Blue Audi A52.0 TDI 190 Quattro Black Edition Plus 2dr,Waterford
+Audi A3 (Edition 1),Audi,30/01/2024,"€36,253.00",2021,"7,603",Hatchback,Manual,Diesel,Silver Audi A3Sportback Edition 1 35 TDI 150 PS 6-speed 2.0 5dr,Dublin
+Audi Q2 (TDI),Audi,03/02/2024,"€20,893.00",2019,"11,446",SUV,Manual,Diesel,Grey Audi Q230 TDI Sport 5dr 1.6,Wicklow
+Audi Q3 (TDI),Audi,06/02/2024,"€35,335.00",2021,"20,294 miles",SUV,Automatic,Diesel,Grey Audi Q335 TDI S Line 5dr S Tronic 2.0,Wexford
+Audi S3 (TFSI),Audi,07/02/2024,"€ 8,390",2008,"97,202",Hatchback,Manual,Petrol,Audi S32.0 TFSI quattro 3dr,Laois
+Audi A6 Avant (TDI),Audi,07/02/2024,"€22,299.00",2018,"46,853",Estate,Automatic,Diesel,Red Audi A6 Avant2.0 TDI ultra S line Estate 5dr Diesel S Tronic Euro 6 (s/s) (190 ps)1 previous owner,Dublin
+Audi Q3 (S line),Audi,2024-02-08,"€32,409.00",2019,"17,315",SUV,Auto,Petrol,Blue Audi Q32.0 TFSI 40 S line S Tronic quattro Euro 6 (s/s) 5dr2 previous owners,Galway
+Audi Q5 (S line Plus),Audi,08/02/2024,"€19,203.00",2016,"57,210",SUV,Automatic,Diesel,Black Audi Q52.0 TDI S line Plus S Tronic quattro Euro 6 (s/s) 5dr1 previous owner,Dublin
+Audi A1 (Black Edition),Audi,08/02/2024,"€ 7,770",2012,"98,166",Hatchback,Manual,Diesel,Navy Audi A12.0 TDI Black Edition Euro 5 (s/s) 3dr,Clare
+Audi A4 Avant (TFSI),Audi,09/02/2024,"€27,410.00",2019,15563,Estate,Automatic,Petrol,Red Audi A435 TFSI Black Edition 5dr S Tronic 2.01 previous owner,Kilkenny
+Audi Q3 (S line),Audi,2024-02-10,"€10,447.00",2013,"100,213",SUV,Manual,Diesel,Blue Audi Q32.0 TDI QUATTRO S LINE 5d 138 BHP,Dublin
+Audi A4 (S line),Audi,11/02/2024,"€13,231.00",2017,"132,108",Saloon,Automatic,Diesel,Navy Audi A42.0 TDI ultra S line Saloon 4dr Diesel S Tronic Euro 6 (s/s) (190 ps)1 previous owner,Monaghan
+Audi A5 (Black Edition Plus),Audi,11/02/2024,"€14,686.00",2016,"98,927",Hatchback,Automatic,Diesel,"Grey Audi A52.0 TDI QUATTRO BLACK EDITION PLUS 5d 187 BHP FSH, like new, 7 seats, 12 months warranty long MOT",Kerry
+Audi RS6 Avant (Carbon Black),Audi,14/02/2024,"€94,385.00",2020,"16,843",Estate,Automatic,Petrol,Black Audi RS6RS 6 TFSI Quattro Carbon Black 5dr Tiptronic 4.0,Limerick
+Audi A1 (Sport),Audi,15/02/2024,"€14,900.00",2018,"28,029",Hatchback,Automatic,Petrol,Navy Audi A11.0 TFSI Sport Sportback S Tronic Euro 6 (s/s) 5dr (Nav)4 previous owners,Mayo
+Audi Q3 (S line Edition),Audi,15/02/2024,"€20,260.00",2017,31739,SUV,Manual,Diesel,Black Audi Q3S line Edition 2.0 TDI 150 PS 6-speed 5dr,Cork
+Audi A6 Avant (Black Edition),Audi,15/02/2024,"€20,282.00",2016,"49,899 miles",Estate,Automatic,Diesel,Grey Audi A6AVANT TDI ULTRA BLACK EDITION 2.0 5dr3 previous owners,Kildare
+Audi A3 (TFSI),Audi,16/02/2024,"€13,186.00",2014,"52,991",Hatchback,Manual,Petrol,Black Audi A31.4 TFSI S line Sportback Euro 6 (s/s) 5dr2 previous owners,Galway
+Audi Q3 (S line Plus),Audi,17/02/2024,"€19,082.00",2016,"45,482",SUV,Automatic,Diesel,Audi Q32.0 TDI S line Plus S Tronic quattro Euro 6 (s/s) 5dr2 previous owners,Cork
+Audi A1 (CoD),Audi,18/02/2024,"€ 13,347",2016,"41,727",Hatchback,Manual,Petrol,Navy Audi A11.4 TFSI CoD Black Edition Euro 6 (s/s) 3dr2 previous owners,Cavan
+Audi A3 (TDI),Audi,18/02/2024,"€6,629.00",2016,"130,453",Hatchback,Manual,Diesel,Grey Audi A32.0 TDI Sport Sportback Euro 6 (s/s) 5dr (Nav)4 previous owners,Sligo
+Audi S4 Avant (TFSI V6),Audi,18/02/2024,"€31,838.00",2017,"27,758",Estate,Automatic,Petrol,Black Audi S4 AVANTS4 Quattro 5dr Tip Tronic 3.0,Galway
+Audi Q2 (TFSI),Audi,20/02/2024,"€ 16,954",2019,"39,685",SUV,Manual,Petrol,Navy Audi Q21.0 TFSI SPORT 5d 114 BHP NICE MILES / NEW MOT2 previous owners,Westmeath
+Audi A7 (TDI V6),Audi,20/02/2024,"€ 32,384",2018,"65,441",Hatchback,Automatic,Diesel,Navy Audi A750 Tdi Quattro S Line 5Dr Tip Auto 3.01 previous owner,Kildare
+Audi A5 (TDI),Audi,20/02/2024,"€13,706.00",2013,"45,517",Coupe,Automatic,Diesel,Black Audi A52.0 TDI S line Multitronic 2dr2 previous owners,Cork
+Audi Q3 (CoD),Audi,22/02/2024,"€21,668.00",2018,25865,SUV,Automatic,Petrol,Red Audi Q31.4 TFSI CoD Sport S Tronic Euro 6 (s/s) 5dr1 previous owner,Meath
+Audi RS3 (Carbon Black),Audi,22/02/2024,"€65,162.00",2022,"1,342",Saloon,Automatic,Petrol,"Black Audi A32.5 RS 3 TFSI QUATTRO CARBON BLACK 4d 395 BHP 2022 CAR, GREAT SPEC2 previous owners",Cork
+Audi RS3 (TFSI),Audi,22/02/2024,"€43,333.00",2020,"9,093",Hatchback,Automatic,Petrol,Navy Audi RS32.5 TFSI Sportback S Tronic quattro Euro 6 (s/s) 5dr2 previous owners,Dublin
+Audi A4 Avant (S line Special Edition),Audi,2024-02-22,"€9,222.00",2011,"96,121 miles",Estate,Automatic,Diesel,Navy Audi A4 Avant2.7 TDI S line Special Edition Multitronic 5dr,Waterford
+Audi A8 (TDI V6),Audi,22/02/2024,"€21,323.00",2015,46853,Saloon,Automatic,Diesel,Silver Audi A83.0 TDI V6 Sport Executive Saloon 4dr Diesel Tiptronic quattro Euro 6 (s/s) (258 ps)4 previous owners,Dublin
+Audi Q7 (TDI V6),Audi,23/02/2024,"€ 45,219",2019,"45,120",SUV,Automatic,Diesel,Navy Audi Q73.0 TDI V6 50 Black Edition Tiptronic quattro Euro 6 (s/s) 5dr2 previous owners,Kilkenny
+Audi Q2 (TFSI),Audi,2024-02-26,"€18,989.00",2018,"54,195",SUV,Automatic,Petrol,Blue Audi Q21.4 TFSI CoD S line S Tronic Euro 6 (s/s) 5dr2 previous owners,Cork
+Audi A6 Saloon (S line),Audi,2024-02-27,"€19,965.00",2012,"75,054",Saloon,Automatic,Diesel,Audi A6 Saloon3.0 BiTDI V6 S line Tiptronic quattro Euro 5 (s/s) 4dr2 previous owners,Wicklow
+Audi A3 (S line),Audi,27/02/2024,"€5,004.00",2009,"102,152",Hatchback,Manual,Diesel,Red Audi A32.0 TDI S line Euro 4 3dr,Limerick
+Audi Q7 (Black Edition),Audi,03/03/2024,"€40,162.00",2018,"68,939",SUV,Automatic,Diesel,Blue Audi Q73.0 TDI V6 Black Edition Tiptronic quattro Euro 6 (s/s) 5dr,Dublin
+Audi A3 (Edition 1),Audi,03/03/2024,"€33,903.00",2021,"17,610",Hatchback,Auto,Petrol,Silver Audi A3Sportback Edition 1 35 TFSI 150 PS S tronic 1.5 5dr1 previous owner,Cork
+Audi A1 (S line),Audi,2024-03-03,"€21,266.00",2019,"10,792",Hatchback,Manual,Petrol,Audi A1 SPORTBACK25 TFSI S Line 5dr 1.02 previous owners,Tipperary
+Audi A1 (TFSI),Audi,05/03/2024,"€7,113.00",2011,69303,Hatchback,Manual,Petrol,Blue Audi A11.4 TFSI Sport Euro 5 (s/s) 3dr2 previous owners,Laois
+Audi TT (Sport),Audi,05/03/2024,"€ 27,467",2019,"6,812",Coupe,Auto,Petrol,Blue Audi TT Tfsi Sport Coupe2.0 TFSI SPORT 2DR Semi Automatic | KEYLESS START | LOW MILES,Monaghan
+Audi A3 Cabriolet (S line),Audi,2024-03-06,"€15,446.00",2015,50422,Convertible,Manual,Diesel,Black Audi A32.0TDi S-LINE CONVERTIBLE 6-SPEED 150 BHP LED DRL + Xenon / Rear Park Assist 2dr,Louth
+Audi A1 (TFSI),Audi,2024-03-06,"€7,389.00",2011,"66,374",Hatchback,Manual,Petrol,Navy Audi A11.4 TFSI Sport Euro 5 (s/s) 3dr,Meath
+Audi Q5 (S line),Audi,06/03/2024,"€44,235.00",2021,"9,200",SUV,Automatic,Petrol,Black Audi Q5 SPORTBACK45 TFSI Quattro S Line 5dr S Tronic 2.01 previous owner,Dublin
+Audi SQ7 (TDI V8),Audi,07/03/2024,"€43,297.00",2017,"59,418",SUV,Automatic,Diesel,"Blue Audi Q74.0 SQ7 TDI QUATTRO 5d 429 BHP Pan sun roof, Bose Sound2 previous owners",Wicklow
+Audi A7 (TDI V6),Audi,2024-03-07,"€14,651.00",2013,"61,160",Hatchback,Automatic,Diesel,Audi A7TDI Quattro 204 S Line 5dr S Tronic [5 Seat] 3.0,Roscommon
+Audi TT (S line),Audi,07/03/2024,"€10,054.00",2012,"70,047",Convertible,Auto,Petrol,Black Audi TT2.0 TFSI S line Roadster S Tronic Euro 5 (s/s) 2dr4 previous owners,Donegal
+Audi A5 (S line),Audi,07/03/2024,"€10,186.00",2012,"97,893",Hatchback,Automatic,Diesel,Red Audi A53.0 TDI 204 S line 5dr Multitronic (NATIONWIDE DELIVERY),Tipperary
+Audi A5 (TFSI),Audi,08/03/2024,"€19,900.00",2017,"42,721",Coupe,Manual,Petrol,Black Audi A52.0 TFSI S line Euro 6 (s/s) 2dr3 previous owners,Dublin
+Audi A1 (S line Style Edition),Audi,09/03/2024,"€8,319.00",2013,"89,928",Hatchback,Manual,Diesel,Blue Audi A11.6 TDI S LINE STYLE EDITION 3d 103 BHP,Laois
+Audi Q3 (Sport),Audi,2024-03-10,"€33,999.00",2021,"10,402",SUV,Automatic,Diesel,Audi Q3Sport 35 TDI quattro 150 PS S tronic 2.0 5dr,Dublin
+Audi A5 Cabriolet (TFSI),Audi,11/03/2024,"€15,636.00",2013,"46,009",Convertible,Automatic,Petrol,Audi A5 Cabriolet2.0 TFSI S line Special Edition Multitronic Euro 6 (s/s) 2dr3 previous owners,Dublin
+Audi SQ8 (Vorsprung),Audi,14/03/2024,"€78,841.00",2019,"47,064",SUV,Automatic,Diesel,Blue Audi Q8Vorsprung TDI 435 PS tiptronic 4.0 5dr1 previous owner,Dublin
+Audi A3 (SE Technik),Audi,16/03/2024,"€12,758.00",2017,"54,599 miles",Hatchback,Manual,Diesel,Grey Audi A3Sportback 1.6 TDI SE Technik (116PS) 5dr2 previous owners,Leitrim
+Audi A1 (Sport),Audi,17/03/2024,"€14,875.00",2018,"21,875",Hatchback,Manual,Petrol,Black Audi A1Sport Nav 1.4 TFSI 125 PS 6-speed 3dr1 previous owner,Kildare
+Audi RS3 (TFSI),Audi,18/03/2024,"€40,386.00",2018,"47,499",Hatchback,Automatic,Petrol,Blue Audi RS32.5 TFSI Sportback S Tronic quattro Euro 6 (s/s) 5dr,Donegal
+Audi TT (Sport),Audi,18/03/2024,"€ 16,664",2018,52996,Coupe,Manual,Petrol,Audi TT1.8T FSI Sport 2dr,Dublin
+Audi A3 (TFSI),Audi,19/03/2024,"€ 15,156",2017,18853,Hatchback,Manual,Petrol,Black Audi A31.0 TFSI Sport 5dr,Dublin
+Audi Q5 (TFSI),Audi,20/03/2024,"€11,256.00",2012,"118,796 miles",SUV,Manual,Petrol,Grey Audi Q52.0 TFSI QUATTRO S LINE PLUS 5d 178 BHP,Kerry
+Audi A1 (TFSI),Audi,20/03/2024,"€12,209.00",2017,"27,560",Hatchback,Manual,Petrol,Black Audi A11L Sport TFSI 3dr,Sligo
+Audi A3 (TDI),Audi,22/03/2024,"€11,063.00",2013,"45,898",Hatchback,Manual,Diesel,Blue Audi A32.0 TDI SPORT 3d 148 BHP,Waterford
+Audi SQ5 (TFSI V6),Audi,22/03/2024,"€36,001.00",2018,"44,048",SUV,Automatic,Petrol,Black Audi SQ53.0 TFSI quattro 354 PS tiptronic 5dr,Dublin
+Audi A3 (TFSI),Audi,24/03/2024,"€5,703.00",2010,"65,491 miles",Hatchback,Automatic,Petrol,Audi A3TFSI SPORT 1.4 5dr,Offaly
+Audi A3 (TDI),Audi,25/03/2024,"€9,986.00",2016,"92,391 miles",Saloon,Manual,Diesel,Red Audi A31.6 TDI SPORT NAV 4d 109 BHP ++DAB RADIO++CAMBELT DONE++,Wicklow
+Audi A6 Saloon (S line),Audi,25/03/2024,"€26,358.00",2018,"65,389",Saloon,Automatic,Diesel,Red Audi A6 Saloon3.0 TDI V6 50 S line Tiptronic quattro Euro 6 (s/s) 4dr,Galway
+Audi E-Tron (Vorsprung),Audi,25/03/2024,"€ 87,413",2022,"2,140",SUV,Automatic,Electric,Audi E-Tron55 Vorsprung Auto quattro 5dr 95kWh (11kW Charger)1 previous owner,Dublin
+Audi A4 Cabriolet (Sport),Audi,25/03/2024,"€2,031.00",2008,"134,006 miles",Convertible,Manual,Diesel,Silver Audi A4 Cabriolet2.0 TDI Sport 2dr,Wicklow
+Audi Q8 (Vorsprung),Audi,26/03/2024,"€64,483.00",2019,"22,648",SUV,Automatic,Diesel,Black Audi Q8Q8 Vorsprung 50 TDI quattro 286 PS tiptronic 3.0 5dr,Dublin
+Audi A8 (S line),Audi,28/03/2024,"€34,790.00",2019,"48,163",Saloon,Auto,Diesel,Navy Audi A83.0 TDI V6 50 S line Tiptronic quattro Euro 6 (s/s) 4dr,Wicklow
+Audi TT (Sport),Audi,28/03/2024,"€23,378.00",2018,"21,030",Coupe,Automatic,Petrol,Navy Audi TTCoup- Sport 2.0 TFSI quattro 230 PS S tronic 3dr,Cork
+Audi A6 Saloon (TDI V6),Audi,29/03/2024,"€9,269.00",2010,"73,312",Saloon,Automatic,Diesel,Silver Audi A6 Saloon3.0 TDI V6 Le Mans Tiptronic quattro Euro 5 4dr,Galway
+Audi Q5 (S line),Audi,29/03/2024,"€31,030.00",2018,"36,285",SUV,Automatic,Petrol,Red Audi Q5S line 2.0 TFSI quattro 252 PS S tronic 5dr1 previous owner,Roscommon
+Audi S3 (TFSI),Audi,31/03/2024,"€30,412.00",2017,40838,Hatchback,Automatic,Petrol,Blue Audi S32.0 S3 SPORTBACK TFSI QUATTRO BLACK EDITION 5d 306 BHP BLACK EDITION+SUPER SPORT SEATS,Cork
+Audi A1 (S line),Audi,31/03/2024,"€19,280.00",2019,"28,902",Hatchback,Manual,Petrol,Blue Audi A130 TFSI S Line 5dr 1.0,Wexford
+Audi A1 (S line),Audi,01/04/2024,"€19,504.00",2019,"15,311",Hatchback,Manual,Petrol,Silver Audi A11.0 TFSI 30 S line Sportback Euro 6 (s/s) 5dr,Limerick
+Audi Q5 (TDI),Audi,01/04/2024,"€8,267.00",2009,"100,920",SUV,Manual,Diesel,Black Audi Q52.0 TDI QUATTRO DPF S LINE 5d 168 BHP 12 MONTH MOT,Dublin
+Audi A3 (S line),Audi,03/04/2024,"€4,780.00",2011,"117,500",Hatchback,Manual,Diesel,Blue Audi A32.0 TDI S line Euro 5 (s/s) 3dr4 previous owners,Dublin
+Audi A5 (TDI),Audi,04/04/2024,"€ 11,437",2013,"89,106",Coupe,Auto,Diesel,Navy Audi A52.0 TDI Black Edition Multitronic 2dr3 previous owners,Dublin
+Audi Q2 (Technik),Audi,05/04/2024,"€20,153.00",2021,"17,158",SUV,Manual,Petrol,Red Audi Q21.0 TFSI TECHNIK 5d 109 BHP Parking Sensors-Cruise Control1 previous owner,Kilkenny
+Audi A4 (TFSI),Audi,06/04/2024,"€14,941.00",2014,"43,082",Saloon,Automatic,Petrol,Red Audi A42.0 TFSI S line S Tronic quattro 4dr2 previous owners,Cork
+Audi R8 (FSI V8),Audi,06/04/2024,"€ 37,245",2008,"81,704",Coupe,Manual,Petrol,Blue Audi R8QUATTRO 4.2 2dr,Dublin
+Audi S5 (TFSI V6),Audi,06/04/2024,"€29,308.00",2017,"25,462",Coupe,Automatic,Petrol,Blue Audi S53.0 TFSI V6 Tiptronic quattro (s/s) 2dr,Dublin
+Audi Q7 (TFSI V6),Audi,2024-04-09,"€64,229.00",2021,"4,986",SUV,Automatic,Petrol,"Black Audi Q755 TFSI QUATTRO S LINE BLACK EDITION 5dr 336 BHP Space, Power, Presence 3.01 previous owner",Clare
+Audi A8 (SE Executive),Audi,10/04/2024,"€14,658.00",2014,78205,Saloon,Automatic,Diesel,Red Audi A83.0 TDI V6 SE Executive Tiptronic quattro Euro 6 (s/s) 4dr5 previous owners,Dublin
+Audi A8 (Executive SE),Audi,2024-04-10,"€8,743.00",2010,146129,Saloon,Automatic,Diesel,Grey Audi A84.2 TDI V8 Executive SE Tiptronic quattro 4dr,Westmeath
+Audi A5 (S line),Audi,10/04/2024,"€21,975.00",2017,"58,334",Coupe,Automatic,Diesel,Black Audi A53.0 TDI V6 S line S Tronic quattro Euro 6 (s/s) 2dr2 previous owners,Louth
+Audi A1 (Sport),Audi,12/04/2024,"€ 13,876",2018,"28,773",Hatchback,Manual,Petrol,Grey Audi A11.0 TFSI GPF Sport Hatchback 3dr Petrol Euro 6 (s/s) (Nav) (95 ps)1 previous owner,Meath
+Audi Q3 (TFSI),Audi,13/04/2024,"€12,818.00",2014,"72,687",SUV,Manual,Petrol,Black Audi Q3SE 1.4 TFSI 150 PS 6 speed 5dr,Dublin
+Audi A3 (TFSI),Audi,13/04/2024,"€6,203.00",2010,"88,040",Hatchback,Manual,Petrol,Red Audi A31.8 TFSI S line Euro 5 3dr,Limerick
+Audi Q3 (TFSI),Audi,13/04/2024,"€23,340.00",2017,"38,342",SUV,Automatic,Petrol,Red Audi Q32.0 TFSI QUATTRO BLACK EDITION 5d 178 BHP ** FULL HISTORY ** 19inch ALLOYS **2 previous owners,Dublin
+Audi A4 Avant (TDI),Audi,13/04/2024,"€21,519.00",2017,"37,884",Estate,Automatic,Diesel,Grey Audi A4 Avant2L S line ultra TDI 5dr,Kildare
+Audi RS5 (Nogaro Edition),Audi,14/04/2024,"€74,211.00",2021,"3,173",Coupe,Automatic,Petrol,Blue Audi RS52.9 TFSI V6 Nogaro Edition Tiptronic quattro Euro 6 (s/s) 2dr1 previous owner,Kilkenny
+Audi TT (TFSI),Audi,2024-04-14,"€14,293.00",2012,"39,029 miles",Coupe,Automatic,Petrol,Blue Audi TT2.0 TFSI Black Edition S Tronic quattro 3dr,Dublin
+Audi A4 Avant (SE),Audi,14/04/2024,"€9,341.00",2016,"124,613",Estate,Manual,Diesel,Blue Audi A4 Avant2.0 TDI ultra SE Euro 6 (s/s) 5dr1 previous owner,Limerick
+Audi Q7 (S line Plus),Audi,15/04/2024,"€13,129.00",2012,"84,450",SUV,Automatic,Diesel,Audi Q73.0 TDI V6 S line Plus Tiptronic quattro Euro 5 (s/s) 5dr3 previous owners,Cork
+Audi TT (TDI),Audi,15/04/2024,"€ 7,900",2010,"88,120",Coupe,Manual,Diesel,Black Audi TT2.0 TDI Sport Coupe 3dr Diesel Manual quattro Euro 5 (170 ps)3 previous owners,Kildare
+Audi E-Tron (Technik),Audi,18/04/2024,"€44,195.00",2020,"13,531",SUV,Automatic,Electric,Blue Audi E-Tron230kW 50 Quattro 71kWh Technik 5dr Auto,Wexford
+Audi A3 Cabriolet (S line),Audi,22/04/2024,"€24,656.00",2018,"20,736",Convertible,Automatic,Petrol,Grey Audi A3Cabriolet S line 35 TFSI 150 PS S tronic 1.5 2dr1 previous owner,Meath
+Audi TT (Sport),Audi,23/04/2024,"€20,078.00",2018,"21,574",Coupe,Manual,Petrol,Red Audi TT2.0T FSI Sport 2dr2 previous owners,Dublin
+Audi Q5 (TFSIe),Audi,23/04/2024,"€47,483.00",2021,"21,947",SUV,Automatic,Petrol Plug-In Hybrid,Red Audi Q52.0 TFSIe 50 S line S Tronic quattro Euro 6 (s/s) 5dr 17.9kWh1 previous owner,Dublin
+Audi R8 (FSI V8),Audi,24/04/2024,"€58,989.00",2014,45655,Convertible,Automatic,Petrol,Blue Audi R84.2 FSI V8 Spyder S Tronic quattro Euro 5 2dr5 previous owners,Dublin
+Audi A3 (CoD),Audi,25/04/2024,"€19,433.00",2019,26149,Hatchback,Manual,Petrol,Audi A3Audi A3 1.5 TFSI CoD 35 S line Sportback 5dr Petrol Manual,Kildare
+Audi Q5 (TDI),Audi,2024-04-26,"€18,363.00",2016,"74,963 miles",SUV,Automatic,Diesel,Blue Audi Q52.0 TDI S line Plus S Tronic quattro Euro 6 (s/s) 5dr2 previous owners,Meath
+Audi Q7 (TDI V6),Audi,26/04/2024,"€42,786.00",2019,"83,709 miles",SUV,Automatic,Diesel,Navy Audi Q73.0 TDI V6 50 Vorsprung Tiptronic quattro Euro 6 (s/s) 5dr,Kildare
+Audi A4 (TFSI),Audi,26/04/2024,"€21,520.00",2019,"11,660",Saloon,Manual,Petrol,Grey Audi A435 TFSI Sport 4dr 2.0,Galway
+Audi A1 (Sport),Audi,2024-04-26,"€6,825.00",2011,"75,421",Hatchback,Manual,Petrol,Navy Audi A1TFSI SPORT 1.4 3dr,Limerick
+Audi A5 (TDI),Audi,27/04/2024,"€16,488.00",2016,"57,495",Coupe,Manual,Diesel,Black Audi A52.0 TDI Black Edition Plus (s/s) 2dr1 previous owner,Carlow
+Audi A4 (TDI),Audi,27/04/2024,"€ 2,029",2008,"154,415",Saloon,Manual,Diesel,Audi A42.0 TDI S line 4dr5 previous owners,Meath
+Audi A6 Saloon (TDI),Audi,2024-04-29,"€ 39,039",2022,"6,859",Saloon,Auto,Diesel,Black Audi A6 DIESEL SALOON40 TDI S Line 4dr S Tronic 2.01 previous owner,Wicklow
+Audi A3 (S line),Audi,29/04/2024,"€10,222.00",2014,"80,120",Hatchback,Manual,Petrol,Audi A31.2 TFSI S LINE 3d 104 BHP,Sligo
+Audi Q7 (S line),Audi,2024-04-30,"€50,074.00",2020,"24,954",SUV,Automatic,Diesel,Black Audi Q73.0 TDI V6 50 S line Tiptronic quattro Euro 6 (s/s) 5dr,Dublin
+Audi Q2 (TDI),Audi,03/05/2024,"€19,189.00",2019,"13,113",SUV,Manual,Diesel,Black Audi Q2Sport 30 TDI 116 PS 6-speed 1.6 5dr2 previous owners,Dublin
+Audi Q3 (Sport),Audi,04/05/2024,"€25,956.00",2019,"28,832",SUV,Automatic,Diesel,Blue Audi Q335 TDI Sport 5dr S Tronic 2.02 previous owners,Limerick
+Audi Q2 (S line),Audi,04/05/2024,"€15,462.00",2017,"78,356",SUV,Manual,Petrol,Black Audi Q21.4 TFSI CoD S line Euro 6 (s/s) 5dr1 previous owner,Tipperary
+Audi Q3 (S line),Audi,2024-05-04,"€14,208.00",2015,"62,638",SUV,Manual,Diesel,Red Audi Q32.0 TDI S line Euro 6 (s/s) 5dr1 previous owner,Cork
+Audi A6 Saloon (Sport),Audi,06/05/2024,"€29,291.00",2019,"10,372",Saloon,Automatic,Diesel,Black Audi A640 TDI Sport 4dr S Tronic 2.0,Kildare
+Audi Q3 (TDI),Audi,06/05/2024,"€16,205.00",2016,"33,564",SUV,Manual,Diesel,Red Audi Q32.0 TDI SE 5dr,Meath
+Audi Q2 (CoD),Audi,07/05/2024,"€ 16,710",2018,"46,244",SUV,Manual,Petrol,Black Audi Q21.4 TFSI CoD Sport Euro 6 (s/s) 5dr,Cork
+Audi A4 (TFSI),Audi,07/05/2024,"€9,738.00",2012,"105,018",Saloon,Automatic,Petrol,Silver Audi A42.0 TFSI S line S Tronic quattro Euro 5 (s/s) 4dr,Donegal
+Audi Q5 (TDI),Audi,09/05/2024,"€20,481.00",2016,"44,268",SUV,Automatic,Diesel,"Blue Audi Q52.0 TDI [190] Quattro S Line Plus 5dr S Tronic [20"" Alloys, Parking System Plus, Xenon Headlights, Nappa Leather, Flat Bottom Steering Wheel]2 previous owners",Dublin
+Audi Q3 (TDI),Audi,11/05/2024,"€13,485.00",2015,"103,427",SUV,Manual,Diesel,Blue Audi Q32.0 TDI S line Plus quattro Euro 6 (s/s) 5dr2 previous owners,Cork
+Audi A3 Cabriolet (S line),Audi,2024-05-11,"€7,792.00",2012,"91,474",Convertible,Automatic,Diesel,Audi A3 Cabriolet2.0 TDI S line S Tronic Euro 5 (s/s) 2dr1 previous owner,Limerick
+Audi A1 (Sport),Audi,12/05/2024,"€10,971.00",2016,"53,488",Hatchback,Manual,Petrol,Black Audi A11.0 T FSi Sport Sportback 5dr,Galway
+Audi S3 (TFSI),Audi,14/05/2024,"€27,150.00",2018,"36,234",Hatchback,Automatic,Petrol,Blue Audi A32.0 S3 SPORTBACK QUATTRO 5d 306 BHP2 previous owners,Galway
+Audi A1 (TFSI),Audi,14/05/2024,"€7,784.00",2014,"73,214 miles",Hatchback,Manual,Petrol,Red Audi A11.4 TFSI Sport 3dr4 previous owners,Meath
+Audi Q5 (Black Edition),Audi,14/05/2024,"€ 42,673",2020,"25,061",SUV,Automatic,Petrol Plug-In Hybrid,Black Audi Q5Black Edition 50 TFSI e quattro 299 PS S tronic 2.0 5dr1 previous owner,Dublin
+Audi A1 (TFSI),Audi,17/05/2024,"€7,334.00",2014,"53,438",Hatchback,Manual,Petrol,Blue Audi A11.4 TFSI Sport Sportback Euro 5 (s/s) 5dr2 previous owners,Dublin
+Audi A6 Avant (Black Edition),Audi,17/05/2024,"€15,620.00",2016,"120,597",Estate,Automatic,Diesel,Audi A6 Avant2.0 TDI ultra Black Edition S Tronic Euro 6 (s/s) 5dr4 previous owners,Dublin
+Audi A4 (TFSI),Audi,19/05/2024,"€21,296.00",2017,"28,463",Saloon,Automatic,Petrol,Navy Audi A42.0 TFSI S line S Tronic Euro 6 (s/s) 4dr1 previous owner,Wicklow
+Audi A4 Cabriolet (Sport),Audi,20/05/2024,"€2,743.00",2008,"105,983",Convertible,Automatic,Petrol,Grey Audi A4 Cabriolet1.8T Sport Multitronic 2dr,Cork
+Audi Q2 (TDI),Audi,22/05/2024,"€21,631.00",2017,"31,283",SUV,Automatic,Diesel,Blue Audi Q22.0 TDI Quattro S Line 5dr S Tronic,Kerry
+Audi A4 Avant (S line),Audi,22/05/2024,"€30,624.00",2021,"20,196",Estate,Automatic,Diesel,Black Audi A435 TDI S Line 5dr S Tronic 2.0,Dublin
+Audi A4 (TFSI),Audi,23/05/2024,"€3,594.00",2008,"159,444",Saloon,Manual,Petrol,Red Audi A41.8 TFSI S line Euro 4 4dr4 previous owners,Kilkenny
+Audi Q5 (S line),Audi,2024-05-24,"€6,938.00",2011,"133,333",SUV,Automatic,Diesel,Red Audi Q53.0 TDI V6 S line SUV 5dr Diesel S Tronic quattro Euro 4 (240 ps)3 previous owners,Dublin
+Audi Q3 (S line Plus),Audi,2024-05-24,"€13,461.00",2016,"99,180",SUV,Manual,Diesel,Blue Audi Q32.0 TDI S line Plus quattro Euro 6 (s/s) 5dr,Dublin
+Audi Q2 (Sport),Audi,25/05/2024,"€16,546.00",2018,50677,SUV,Manual,Petrol,Audi Q2 Estate1.0 TFSI Sport 5dr,Dublin
+Audi TT (TFSI),Audi,2024-05-28,"€6,831.00",2012,"82,977 miles",Coupe,Automatic,Petrol,Black Audi TT1.8 TFSI S line S Tronic Euro 5 3dr5 previous owners,Dublin
+Audi A1 (TFSI),Audi,30/05/2024,"€10,607.00",2015,"38,161",Hatchback,Manual,Petrol,Grey Audi A11.0 TFSI SE Sportback Euro 6 (s/s) 5dr2 previous owners,Roscommon
+Audi Q2 (TFSI),Audi,31/05/2024,"€ 21,314",2017,"13,500",SUV,Auto,Petrol,Black Audi Q21.4 TFSI CoD Sport S Tronic (s/s) 5dr2 previous owners,Dublin
+Audi Q2 (TFSI),Audi,31/05/2024,"€29,278.00",2021,12675,SUV,Automatic,Petrol,Black Audi Q2S line 35 TFSI 150 PS S tronic 1.5 5dr,Dublin
+Audi A3 Cabriolet (CoD),Audi,2024-06-02,"€16,220.00",2016,"47,640",Convertible,Manual,Petrol,Silver Audi A3 Cabriolet1.4 TFSI CoD S line Euro 6 (s/s) 2dr2 previous owners,Westmeath
+Audi Q7 (TDI V6),Audi,03/06/2024,"€34,901.00",2017,"63,767 miles",SUV,Automatic,Diesel Plug-In Hybrid,Navy Audi Q73.0 TDI Quattro e-tron 5dr Tip Auto,Cork
+Audi Q3 (TDI),Audi,04/06/2024,"€24,959.00",2017,"22,745 miles",SUV,Automatic,Diesel,Navy Audi Q3TDI QUATTRO BLACK EDITION 2.0 5dr,Wexford
+Audi A3 Cabriolet (S line),Audi,05/06/2024,"€18,601.00",2017,"26,962",Convertible,Manual,Petrol,Blue Audi A3 Cabriolet1.4 TFSI S Line 2dr Satellite Navigation,Meath
+Audi A1 (TDI),Audi,05/06/2024,"€6,983.00",2011,"79,974",Hatchback,Manual,Diesel,Red Audi A11.6 TDI Sport Euro 5 (s/s) 3dr,Cork
+Audi A4 Avant (TDI),Audi,06/06/2024,"€30,147.00",2021,"19,173",Estate,Auto,Diesel,Red Audi A4Avant S line 35 TDI 163 PS S tronic 2.0 5dr1 previous owner,Tipperary
+Audi A1 (TFSI),Audi,06/06/2024,"€12,534.00",2016,"40,747",Hatchback,Manual,Petrol,Black Audi A11.4 TFSI S line Hatchback 3dr Petrol Euro 6 (s/s) (125 ps)1 previous owner,Dublin
+Audi A3 (SE Technik),Audi,07/06/2024,"€14,069.00",2017,"48,043",Hatchback,Manual,Diesel,Black Audi A32.0 TDI SE Technik Sportback Euro 6 (s/s) 5dr2 previous owners,Kilkenny
+Audi A5 (TDI),Audi,2024-06-10,"€ 24,320",2019,"24,320",Coupe,Auto,Diesel,Navy Audi A52.0 TDI S LINE 2d AUTO 188 BHP Satellite Nav - Parking Sensors1 previous owner,Dublin
+Audi A3 (SE Technik),Audi,11/06/2024,"€13,243.00",2017,"48,872",Hatchback,Manual,Diesel,Silver Audi A32.0 TDI SE Technik 5dr,Cork
+Audi Q5 (TDI),Audi,13/06/2024,"€19,473.00",2015,"49,868",SUV,Automatic,Diesel,"Silver Audi Q52.0 TDI [190] Quattro S Line Plus 5dr S Tronic [Black Styling Pack, Parking System Plus, Nappa Leather, Cruise Control, Xenon Headlights, 20"" Alloys,",Dublin
+Audi A3 (S line),Audi,2024-06-14,"€15,088.00",2017,"59,069",Hatchback,Automatic,Diesel,Red Audi A32.0 TDI S line Hatchback 3dr Diesel S Tronic Auto 6Spd Euro 6 (s/s) (150 ps)3 previous owners,Cork
+Audi TT (S line),Audi,14/06/2024,"€ 18,307",2015,"43,774",Coupe,Automatic,Petrol,Blue Audi TT2.0 TFSI QUATTRO S LINE 2d 227 BHP2 previous owners,Dublin
+Audi A7 (TDI V6),Audi,15/06/2024,"€19,997.00",2016,47410,Hatchback,Automatic,Diesel,Blue Audi A73L S line TDI V6 5dr,Limerick
+Audi A5 (TDI V6),Audi,15/06/2024,"€14,336.00",2015,"62,669",Hatchback,Automatic,Diesel,Audi A53.0 SPORTBACK TDI S LINE 5d 204 BHP,Cavan
+Audi A3 (SE Technik),Audi,17/06/2024,"€17,417.00",2018,"27,936",Hatchback,Automatic,Diesel,Audi A31.6 TDI 116 SE Technik 5dr S Tronic,Tipperary
+Audi Q3 (Black Edition),Audi,17/06/2024,"€23,451.00",2018,"34,291",SUV,Automatic,Diesel,Black Audi Q32.0 TDI Black Edition S Tronic quattro Euro 6 (s/s) 5dr2 previous owners,Dublin
+Audi A1 (TFSI),Audi,17/06/2024,"€9,153.00",2014,"47,782",Hatchback,Manual,Petrol,Black Audi A11.4 TFSI Sport Euro 5 (s/s) 3dr2 previous owners,Louth
+Audi A1 (Sport),Audi,2024-06-19,"€ 9,263",2018,"20,028",Hatchback,Manual,Petrol,Blue Audi A11.4 TFSI Sport Sportback Euro 6 (s/s) 5dr (Nav)3 previous owners,Dublin
+Audi A1 (S line),Audi,20/06/2024,"€14,145.00",2015,"44,994",Hatchback,Automatic,Petrol,Blue Audi A1S line 1.4 TFSI 150 PS S tronic 3dr,Dublin
+Audi TT (S line),Audi,21/06/2024,"€15,365.00",2015,"56,865 miles",Coupe,Automatic,Petrol,Audi TT2.0 TFSI S line S Tronic quattro Euro 6 (s/s) 3dr4 previous owners,Tipperary
+Audi Rsq8 (TFSI V8),Audi,21/06/2024,"€ 115,238",2020,"9,585",SUV,Automatic,Petrol,Grey Audi RSQ84.0 TFSI V8 Vorsprung Tiptronic quattro Euro 6 (s/s) 5dr,Roscommon
+Audi S3 (TFSI),Audi,22/06/2024,"€26,311.00",2019,"34,909",Hatchback,Automatic,Petrol,Blue Audi S32.0 TFSI Sportback S Tronic quattro Euro 6 (s/s) 5dr1 previous owner,Donegal
+Audi A4 (SE Technik),Audi,2024-06-23,"€ 9,744",2013,"70,400",Saloon,Manual,Petrol,Navy Audi A41.8 TFSI SE Technik Euro 5 (s/s) 4dr3 previous owners,Kildare
+Audi A4 Avant (TDI),Audi,2024-06-25,"€9,718.00",2013,"80,267",Estate,Automatic,Diesel,Red Audi A42.0 AVANT TDI SE TECHNIK 5d 141 BHP SAT NAV-PARKING SENSORS-CLIMATE2 previous owners,Donegal
+Audi Q4 E-Tron (Sport),Audi,25/06/2024,"€ 48,930",2021,"7,790",SUV,Automatic,Electric,Audi Q4 e-tron35 Sport SUV 5dr Electric Auto 55kWh (170 ps)2 previous owners,Donegal
+Audi Q3 (TDI),Audi,2024-06-27,"€11,162.00",2014,"82,569",SUV,Manual,Diesel,Black Audi Q32.0 TDI S line Euro 5 (s/s) 5dr3 previous owners,Dublin
+Audi A5 Cabriolet (S line),Audi,27/06/2024,"€22,849.00",2018,"17,690",Convertible,Manual,Petrol,Blue Audi A5TFSI S LINE 2.0 2dr,Carlow
+Audi A5 (Sport),Audi,28/06/2024,"€29,302.00",2020,"28,332",Hatchback,Automatic,Diesel,Red Audi A535 TDI Sport 5dr S Tronic 2.0,Laois
+Audi RS5 (TFSI V6),Audi,28/06/2024,"€35,283.00",2017,"35,704",Coupe,Automatic,Petrol,Black Audi RS52.9 TFSI V6 Tiptronic quattro Euro 6 (s/s) 2dr4 previous owners,Galway
+Audi A6 Avant (TDI),Audi,2024-06-28,"€ 17,275",2017,"49,625",Estate,Manual,Diesel,Red Audi A62.0 TDI AVANT ULTRA SE EXECUTIVE 5d 188 BHP1 previous owner,Meath
+Audi A3 (TFSI),Audi,29/06/2024,"€12,755.00",2016,"44,354",Hatchback,Manual,Petrol,Grey Audi A31.0 TFSI SPORT 3d 114 BHP \xa320 RFL | 60.1MPG | GREAT HISTORY2 previous owners,Dublin
+Audi R8 (FSI V10),Audi,2024-06-29,"€126,127.00",2019,"13,729",Coupe,Automatic,Petrol,Black Audi R85.2 FSI V10 Performance Carbon Black S Tronic quattro Euro 6 (s/s) 2dr2 previous owners,Limerick
+Audi A3 (TFSI),Audi,2024-06-29,"€10,087.00",2014,"70,022 miles",Hatchback,Manual,Petrol,Silver Audi A31.4 TFSI S line Sportback Euro 5 (s/s) 5dr2 previous owners,Waterford
+Audi A4 Avant (Sport),Audi,29/06/2024,"€12,024.00",2017,"98,416 miles",Estate,Manual,Diesel,Blue Audi A42.0 AVANT TDI ULTRA SPORT 5d 188 BHP2 previous owners,Cork
+Audi A1 (S line),Audi,30/06/2024,"€21,434.00",2019,"6,873",Hatchback,Manual,Petrol,Silver Audi A125 TFSI S Line 5dr 1.0,Dublin
+Audi Q5 (S line),Audi,02/07/2024,"€44,587.00",2021,"12,437",SUV,Automatic,Petrol,Black Audi Q5 SPORTBACK45 TFSI Quattro S Line 5dr S Tronic [C+S] 2.01 previous owner,Donegal
+Audi Q4 E-Tron (Edition 1),Audi,2024-07-03,"€ 64,280",2021,"4,355",SUV,Automatic,Electric,"Blue Audi Q4 E-TronQ4 Edition 1 40 e-tron 150,00 kW 5dr",Dublin
+Audi A5 (TDI),Audi,03/07/2024,"€20,385.00",2018,"40,995",Coupe,Auto,Diesel,Audi A52.0 TDI S line S Tronic Euro 6 (s/s) 2dr3 previous owners,Cork
+Audi A1 (Sport),Audi,05/07/2024,"€14,452.00",2018,"32,957",Hatchback,Manual,Petrol,Navy Audi A11.4 TFSI Sport Nav 5dr,Donegal
+Audi TT (S line),Audi,06/07/2024,"€10,996.00",2011,"76,303",Coupe,Manual,Diesel,Silver Audi TT2.0 TDI S line quattro Euro 5 3dr2 previous owners,Wexford
+Audi RS4 Avant (TFSI V6),Audi,06/07/2024,"€76,502.00",2022,"3,563 miles",Estate,Automatic,Petrol,Navy Audi RS4 Avant2.9 TFSI V6 Carbon Black Estate 5dr Petrol Tiptronic quattro Euro 6 (s/s) (450 ps)1 previous owner,Dublin
+Audi TT (TDI),Audi,2024-07-07,"€15,154.00",2016,"64,746",Coupe,Manual,Diesel,Black Audi TTAudi TT Coupe 2.0 TDI 184 Ultra Sport 2dr2 previous owners,Tipperary
+Audi TT (ultra),Audi,2024-07-08,"€16,464.00",2015,"60,901 miles",Coupe,Manual,Diesel,Navy Audi TT2.0 TDI Ultra S Line 2dr,Dublin
+Audi A5 (TFSI),Audi,12/07/2024,"€39,365.00",2021,"13,247",Hatchback,Automatic,Petrol,Red Audi A540 TFSI 204 Edition 1 5dr S Tronic 2.0,Dublin
+Audi Q3 (S line),Audi,2024-07-13,"€ 39,847",2019,"19,083",SUV,Automatic,Petrol,Silver Audi Q3Sportback S line 45 TFSI quattro 230 PS S tronic 2.0 5dr1 previous owner,Donegal
+Audi A4 (Sport Edition),Audi,14/07/2024,"€28,211.00",2021,"10,795",Saloon,Automatic,Diesel,Black Audi A4 DIESEL SALOON30 TDI Sport Edition 4dr S Tronic 2.01 previous owner,Limerick
+Audi A6 Saloon (S line),Audi,14/07/2024,"€18,183.00",2017,"49,411",Saloon,Automatic,Diesel,Red Audi A62.0 TDI ULTRA S LINE 4d 188 BHP1 previous owner,Waterford
+Audi A3 (Sport),Audi,2024-07-16,"€7,201.00",2013,"107,305",Hatchback,Manual,Diesel,Grey Audi A3TDI SPORT 1.6 5dr,Kilkenny
+Audi A5 (TDI),Audi,16/07/2024,"€17,112.00",2017,"62,386 miles",Hatchback,Automatic,Diesel,Navy Audi A52.0 TDI Ultra SE 5dr S Tronic3 previous owners,Dublin
+Audi Q5 (S line Plus),Audi,2024-07-17,"€12,355.00",2014,"100,034",SUV,Manual,Diesel,Blue Audi Q52.0 TDI S line Plus quattro Euro 5 (s/s) 5dr3 previous owners,Dublin
+Audi A6 Avant (Black Edition),Audi,17/07/2024,"€18,632.00",2016,80161,Estate,Automatic,Diesel,Black Audi A6 Avant3.0 TDI V6 Black Edition S Tronic quattro Euro 6 (s/s) 5dr,Westmeath
+Audi A4 (TDI),Audi,2024-07-17,"€6,150.00",2013,"125,338",Saloon,Manual,Diesel,Blue Audi A42.0 TDI SE Technik Euro 5 (s/s) 4dr,Dublin
+Audi A4 Avant (ultra),Audi,18/07/2024,"€11,131.00",2016,"118,474 miles",Estate,Automatic,Diesel,Red Audi A4 Avant2.0 TDI ultra Sport S Tronic Euro 6 (s/s) 5dr1 previous owner,Donegal
+Audi A4 (TDI),Audi,18/07/2024,"€17,024.00",2017,46142,Saloon,Manual,Diesel,Blue Audi A42.0 TDI S LINE 4d 188 BHP**\xa32000 FACTORY UPGRADES**SAT NAV**CLIMATE** **AWARD WINNING DEALER**2 previous owners,Clare
+Audi A3 Cabriolet (TDI),Audi,18/07/2024,"€4,138.00",2012,"113,024",Convertible,Manual,Diesel,Audi A3 Cabriolet1.6 TDI Sport Euro 5 (s/s) 2dr4 previous owners,Dublin
+Audi A1 (Sport),Audi,19/07/2024,"€14,094.00",2018,"22,479",Hatchback,Manual,Petrol,Black Audi A11.0 SPORTBACK TFSI SPORT NAV 5d 93 BHP Air con - Alloys Wheels - Bluetooth1 previous owner,Dublin
+Audi Q3 (Black Edition),Audi,21/07/2024,"€21,408.00",2017,"52,200 miles",SUV,Automatic,Petrol,Grey Audi Q32.0T FSI Quattro Black Edition 5dr S Tronic1 previous owner,Wicklow
+Audi TT (Black Edition),Audi,21/07/2024,"€11,362.00",2013,"80,247 miles",Coupe,Manual,Diesel,Silver Audi TT2.0 TDI QUATTRO BLACK EDITION 2d 168 BHP QUATTRO BLACK EDITION MODEL,Cork
+Audi Q3 (SE),Audi,22/07/2024,"€14,479.00",2013,"51,275",SUV,Automatic,Petrol,Audi Q32.0 TFSI QUATTRO SE 5d 168 BHP **JONES MOTOR COMPANY HAVE BEEN AUDI SPECIALISTS FOR OVER 15 YEARS**2 previous owners,Tipperary
+Audi A4 (S line Special Edition),Audi,22/07/2024,"€6,181.00",2011,"121,028 miles",Saloon,Automatic,Diesel,Silver Audi A42.0 TDI S line Special Edition Multitronic Euro 4 4dr4 previous owners,Dublin
+Audi A4 (S line),Audi,22/07/2024,"€22,435.00",2018,22006,Saloon,Automatic,Petrol,Grey Audi A42.0 TFSI S line S Tronic Euro 6 (s/s) 4dr2 previous owners,Sligo
+Audi S4 (TFSI V6),Audi,2024-07-23,"€13,475.00",2010,"70,226",Saloon,Manual,Petrol,Grey Audi S43.0 TFSI V6 quattro 4dr,Tipperary
+Audi Q3 (SE),Audi,2024-07-23,"€ 15,252",2016,"63,251",SUV,Manual,Diesel,Black Audi Q32.0 TDI SE quattro Euro 6 (s/s) 5dr2 previous owners,Cork
+Audi A4 (SE),Audi,24/07/2024,"€9,476.00",2016,"125,227",Saloon,Manual,Diesel,Red Audi A42.0 TDI ultra SE Euro 6 (s/s) 4dr2 previous owners,Tipperary
+Audi Q3 (Vorsprung),Audi,2024-07-26,"€43,357.00",2020,"9,922",SUV,Automatic,Petrol,Audi Q3Vorsprung 40 TFSI quattro 190 PS S tronic 2.0 5dr1 previous owner,Offaly
+Audi A5 (S line),Audi,2024-07-28,"€30,161.00",2020,"20,550",Hatchback,Automatic,Petrol,Red Audi A5Sportback S line 40 TFSI 190 PS S tronic 2.0 5dr,Galway
+Audi Q7 (S line),Audi,30/07/2024,"€32,184.00",2017,"50,657",SUV,Automatic,Diesel,Audi Q73.0 TDI V6 S line Tiptronic quattro Euro 6 (s/s) 5dr,Louth
+Audi Q2 (Sport),Audi,31/07/2024,"€18,194.00",2019,"37,297",SUV,Manual,Petrol,Navy Audi Q21.0 TFSI 30 Sport Euro 6 (s/s) 5dr1 previous owner,Kerry
+Audi Q3 (Sport),Audi,01/08/2024,"€25,568.00",2019,"16,790",SUV,Manual,Petrol,Blue Audi Q335 TFSI Sport 5dr Satellite Navigation 1.5,Louth
+Audi Q5 (S line),Audi,01/08/2024,"€21,392.00",2017,"61,611",SUV,Automatic,Diesel,Audi Q52.0 TDI S line S Tronic quattro (s/s) 5dr1 previous owner,Galway
+Audi A7 (TDI V6),Audi,2024-08-01,"€29,821.00",2018,"68,396",Hatchback,Automatic,Diesel,Blue Audi A7 DIESEL SPORTBACK50 TDI Quattro S Line 5dr Tip Auto 3.02 previous owners,Limerick
+Audi Q7 (TDI V6),Audi,04/08/2024,"€54,170.00",2021,"16,150",SUV,Automatic,Diesel,Blue Audi Q750 TDI Quattro S Line 5dr Tiptronic 3.0,Louth
+Audi Q3 (TFSI),Audi,05/08/2024,"€25,824.00",2019,"43,556",SUV,Automatic,Petrol,Navy Audi Q31.5 TFSI SPORT 5d 148 BHP *BUY ONLINE ** FREE DELIVERY*2 previous owners,Dublin
+Audi A1 (S line Competition),Audi,05/08/2024,"€22,965.00",2019,"21,424",Hatchback,Automatic,Petrol,Grey Audi A140 TFSI S Line Competition 5dr S Tronic Bluetooth 2.0,Dublin
+Audi A3 (TFSI),Audi,07/08/2024,"€12,756.00",2013,"21,423",Hatchback,Manual,Petrol,Red Audi A31.4 TFSI CoD Sport Sportback Euro 6 (s/s) 5dr1 previous owner,Sligo
+Audi Q3 (Sport),Audi,08/08/2024,"€27,233.00",2019,"11,423",SUV,Automatic,Diesel,Audi Q32.0 TDI 35 Sport S Tronic Euro 6 (s/s) 5dr1 previous owner,Galway
+Audi Q5 (S line Plus),Audi,2024-08-12,"€17,186.00",2014,64613,SUV,Auto,Diesel,Blue Audi Q52.0 TDI Quattro S Line Plus 5dr S Tronic [Heated Front Seats],Mayo
+Audi A5 (Sport),Audi,2024-08-12,"€4,832.00",2011,"135,549",Coupe,Manual,Diesel,Black Audi A52.0 TDI SPORT 2d 168 BHP 1 YEAR MOT INCLUDED,Kildare
+Audi A4 (Sport),Audi,2024-08-13,"€11,783.00",2017,"81,249",Saloon,Manual,Petrol,Audi A41.4 TFSI SPORT 4d 148 BHP2 previous owners,Donegal
+Audi A5 Cabriolet (TFSI),Audi,14/08/2024,"€9,367.00",2011,"72,225",Convertible,Automatic,Petrol,Audi A5 Cabriolet2.0 TFSI S line Convertible 2dr Petrol Multitronic Euro 5 (211 ps)2 previous owners,Kildare
+Audi Q3 (S line Edition),Audi,15/08/2024,"€21,453.00",2018,"29,268",SUV,Automatic,Diesel,Red Audi Q32.0 TDI [184] Quattro S Line Edition 5dr S Tronic,Limerick
+Audi Q3 (TDI),Audi,15/08/2024,"€11,578.00",2015,"107,476",SUV,Manual,Diesel,Black Audi Q32.0 TDI SE 5dr3 previous owners,Dublin
+Audi A5 (Sport),Audi,15/08/2024,"€2,900.00",2010,"185,045",Coupe,Manual,Diesel,Blue Audi A52.0 TDI Sport Euro 5 (s/s) 2dr5 previous owners,Dublin
+Audi A5 Cabriolet (TDI),Audi,15/08/2024,"€14,345.00",2015,"51,618",Convertible,Manual,Diesel,Black Audi A5 Cabriolet2.0 TDI S line Special Edition Plus Convertible 2dr Diesel Manual Euro 5 (s/s) (177 ps)2 previous owners,Dublin
+Audi A5 (Sport),Audi,2024-08-16,"€32,510.00",2021,"11,163",Hatchback,Automatic,Diesel,Grey Audi A5 DIESEL SPORTBACK35 TDI Sport 5dr S Tronic 2.01 previous owner,Kildare
+Audi A5 (TDI),Audi,16/08/2024,"€15,311.00",2013,"26,896",Coupe,Manual,Diesel,Silver Audi A52.0 TDI BLACK EDITION 2d 177 BHP2 previous owners,Wexford
+Audi A7 (SE Executive),Audi,2024-08-20,"€19,957.00",2015,"21,869",Hatchback,Automatic,Diesel,Red Audi A73.0 TDI V6 SE Executive Sportback S Tronic quattro Euro 6 (s/s) 5dr2 previous owners,Donegal
+Audi A1 (TFSI),Audi,21/08/2024,"€10,104.00",2015,"45,918",Hatchback,Manual,Petrol,Audi A11.0 TFSI SPORT 3d 93 BHP \xa3FREE ROAD TAX RAC WARRANTY FINANCE2 previous owners,Galway
+Audi Q7 (Vorsprung),Audi,22/08/2024,"€75,829.00",2021,17678,SUV,Automatic,Diesel,Red Audi Q750 TDI Quattro Vorsprung 5dr Tiptronic 3.0,Clare
+Audi Q3 (TDI),Audi,23/08/2024,"€15,450.00",2017,"60,335",SUV,Automatic,Diesel,Navy Audi Q32.0 TDI Sport SUV 5dr Diesel S Tronic quattro Euro 6 (s/s) (184 ps)1 previous owner,Laois
+Audi Q3 (TDI),Audi,24/08/2024,"€17,376.00",2017,"25,760",SUV,Manual,Diesel,Red Audi Q32.0 TDI SE 5dr,Dublin
+Audi A5 (S line),Audi,25/08/2024,"€19,172.00",2017,"57,447",Coupe,Automatic,Diesel,Grey Audi A52.0 TDI S line S Tronic Euro 6 (s/s) 2dr2 previous owners,Dublin
+Audi SQ8 (Black Edition),Audi,2024-08-25,"€87,904.00",2022,"4,581",SUV,Automatic,Petrol,Grey Audi Q8SQ8 TFSI Quattro Black Edition 5dr Tiptronic 4.0,Dublin
+Audi A4 Avant (S line),Audi,27/08/2024,"€12,839.00",2013,"70,032",Estate,Automatic,Petrol,Blue Audi A4 Avant2.0 TFSI S line Multitronic Euro 5 (s/s) 5dr,Tipperary
+Audi Q7 (TDI V6),Audi,30/08/2024,"€29,125.00",2016,"87,595",SUV,Automatic,Diesel,Navy Audi Q73.0 TDI QUATTRO S LINE 5d 269 BHP 7 SEATER! 4-ZONE CLIMATE!2 previous owners,Waterford
+Audi RS3 (TFSI),Audi,30/08/2024,"€67,170.00",2022,"2,901",Saloon,Automatic,Petrol,Silver Audi RS3RS 3 Saloon Carbon Black 400 PS S tronic 2.5 4dr1 previous owner,Louth
+Audi A3 (TFSI),Audi,01/09/2024,"€17,281.00",2014,"18,162 miles",Hatchback,Auto,Petrol,Black Audi A31.4 TFSI CoD S line Sportback S Tronic 5dr1 previous owner,Limerick
+Audi Q3 (CoD),Audi,03/09/2024,"€27,519.00",2019,"11,463",SUV,Manual,Petrol,Blue Audi Q335 TFSI Sport 5dr 1.51 previous owner,Leitrim
+Audi A1 (S line),Audi,04/09/2024,"€9,984.00",2015,"82,097",Hatchback,Manual,Diesel,Blue Audi A11.6 TDI S line Sportback 5dr Diesel Euro 6 (s/s) (116 ps)3 previous owners,Kerry
+Audi Q3 (Black Edition),Audi,05/09/2024,"€42,253.00",2021,"11,788",SUV,Automatic,Petrol Plug-In Hybrid,Grey Audi Q3Black Edition 45 TFSI e 245 PS S tronic 1.4 5dr,Dublin
+Audi SQ5 (BiTDI V6),Audi,2024-09-06,"€ 26,495",2015,"43,244",SUV,Automatic,Diesel,Silver Audi SQ53.0 BiTDI V6 Plus Tiptronic quattro Euro 6 (s/s) 5dr2 previous owners,Mayo
+Audi Q3 (CoD),Audi,2024-09-06,"€36,913.00",2022,"1,347 miles",SUV,Manual,Petrol,Audi Q335 TFSI S Line 5dr 1.51 previous owner,Kildare
+Audi A5 (Black Edition),Audi,07/09/2024,"€29,611.00",2019,"12,438",Hatchback,Automatic,Petrol,Audi A540 Tfsi Black Edition 5Dr S Tronic 2.02 previous owners,Meath
+Audi A5 (Black Edition Plus),Audi,2024-09-08,"€17,454.00",2016,"51,748",Hatchback,Manual,Diesel,Black Audi A5 Sportback2.0 Tdi Black Edition Plus Sportback 5dr Diesel Manual Quattro Euro 6 (s/s) (190 Ps),Cork
+Audi Q3 (S line),Audi,09/09/2024,"€30,645.00",2020,"16,692",SUV,Manual,Petrol,Red Audi Q3Q3 S line 35 TFSI 150 PS 6-speed 1.5 5dr,Donegal
+Audi Q2 (CoD),Audi,11/09/2024,"€17,803.00",2018,"42,249 miles",SUV,Manual,Petrol,Black Audi Q2Sport 1.4 TFSI cylinder on demand 150 PS 6-speed 5dr,Cork
+Audi A1 (Sport),Audi,13/09/2024,"€10,403.00",2016,"68,365",Hatchback,Manual,Petrol,Audi A11.4 TFSI Sport 5dr,Dublin
+Audi Q2 (TFSI),Audi,15/09/2024,"€ 23,190",2020,"13,311",SUV,Manual,Petrol,Red Audi Q21.5 TFSI CoD 35 S line (s/s) 5dr,Donegal
+Audi A4 Avant (Technik),Audi,16/09/2024,"€24,886.00",2020,"15,612 miles",Estate,Automatic,Diesel,Red Audi A4 AVANT2.0 AVANT TDI TECHNIK 5d 161 BHP1 previous owner,Galway
+Audi Q7 (S line),Audi,16/09/2024,"€40,482.00",2019,"42,520",SUV,Automatic,Diesel,Silver Audi Q7S line 3.0 TDI quattro 272 PS tiptronic 5dr3 previous owners,Wexford
+Audi TT (TFSI),Audi,17/09/2024,"€8,359.00",2012,"87,757",Coupe,Automatic,Petrol,Red Audi TT1.8 TFSI S line S Tronic Euro 5 3dr,Galway
+Audi A6 Saloon (TDI),Audi,18/09/2024,"€ 7,057",2010,"61,273",Saloon,Manual,Diesel,Audi A6 Saloon2.0 TDI S line Special Edition 4dr,Dublin
+Audi A4 Avant (TDI),Audi,2024-09-19,"€16,616.00",2019,"74,074 miles",Estate,Automatic,Diesel,Navy Audi A4 Avant2.0 TDI 35 SE S Tronic Euro 6 (s/s) 5dr1 previous owner,Cork
+Audi A4 Avant (SE),Audi,19/09/2024,"€14,318.00",2017,"70,203",Estate,Manual,Diesel,Audi A4 Avant2.0 TDI ultra SE Euro 6 (s/s) 5dr2 previous owners,Galway
+Audi A5 (S line),Audi,21/09/2024,"€23,126.00",2017,"40,316",Hatchback,Automatic,Diesel,Audi A52.0 TDI S line Sportback S Tronic quattro Euro 6 (s/s) 5dr2 previous owners,Galway
+Audi Q3 (CoD),Audi,22/09/2024,"€25,192.00",2018,"15,581",SUV,Manual,Petrol,Black Audi Q31.4T FSI Black Edition 5dr,Louth
+Audi A5 (TDI),Audi,22/09/2024,"€21,259.00",2017,"8,881",Hatchback,Automatic,Diesel,Black Audi A52.0 TDI Sport Sportback 5dr Diesel S Tronic quattro Euro 6 (s/s) (190 ps)1 previous owner,Kildare
+Audi Q2 (S line),Audi,23/09/2024,"€23,007.00",2019,"17,090",SUV,Automatic,Petrol,"Black Audi Q235 TFSI S Line 5dr S Tronic 1.5L | Automatic | |DAB- CD - SD card-Bluetooth |18"" Alloy Wheels | Auto Lights & Wipers | Half leather Upholstery",Tipperary
+Audi Q5 (TDI V6),Audi,28/09/2024,"€9,187.00",2010,"123,636",SUV,Automatic,Diesel,Navy Audi Q53.0 TDI V6 S line S Tronic quattro Euro 4 5dr5 previous owners,Dublin
+Audi Q3 (CoD),Audi,28/09/2024,"€19,946.00",2018,"37,131",SUV,Automatic,Petrol,Red Audi Q31.4T FSI S Line Edition 5dr S Tronic Estate,Wicklow
+Audi A5 (TDI),Audi,2024-09-30,"€5,172.00",2009,"118,095",Coupe,Manual,Diesel,Blue Audi A52.0 TDI S line Euro 5 (s/s) 2dr2 previous owners,Cork
+Audi S3 (Black Edition),Audi,30/09/2024,"€12,299.00",2012,"89,571",Hatchback,Automatic,Petrol,Blue Audi S32.0 TFSI Black Edition S Tronic quattro Euro 5 3dr5 previous owners,Louth
+Audi A5 Cabriolet (S line),Audi,30/09/2024,"€9,943.00",2012,98243,Convertible,Automatic,Diesel,Blue Audi A5 Cabriolet3.0 TDI V6 S line Convertible 2dr Diesel S Tronic quattro Euro 6 (s/s) (245 ps)3 previous owners,Meath
+Audi A7 (TDI V6),Audi,01/10/2024,"€18,310.00",2014,"53,052",Hatchback,Automatic,Diesel,Silver Audi A73.0 TDI V6 S line Sportback 5dr Diesel S Tronic quattro Euro 5 (s/s) (245 ps)2 previous owners,Galway
+Audi RS4 Avant (FSI V8),Audi,01/10/2024,"€28,163.00",2014,"59,581",Estate,Automatic,Petrol,Red Audi RS4 AVANT4.2 RS4 AVANT FSI QUATTRO 5d 444 BHP FULL LEATHER / HEATED F & R SEATS,Cork
+Audi A3 (TDI),Audi,02/10/2024,"€11,148.00",2014,"67,120",Hatchback,Manual,Diesel,Red Audi A31.6 TDI S line Hatchback 3dr Diesel Manual Euro 5 (s/s) (105 ps)3 previous owners,Limerick
+Audi A4 (Sport),Audi,04/10/2024,"€18,168.00",2019,"59,065",Saloon,Automatic,Diesel,Grey Audi A42.0 TDI SPORT 4d 148 BHP,Donegal
+Audi R8 (FSI V8),Audi,06/10/2024,"€50,231.00",2011,"25,367",Convertible,Manual,Petrol,Red Audi R84.2 FSI V8 Spyder quattro Euro 5 2dr,Limerick
+Audi Q7 (S line),Audi,08/10/2024,"€36,089.00",2018,"42,237 miles",SUV,Automatic,Diesel,Black Audi Q73.0 TDI V6 S line Tiptronic quattro (s/s) 5dr,Limerick
+Audi A3 (TDI),Audi,09/10/2024,"€10,267.00",2017,"92,204",Hatchback,Manual,Diesel,Grey Audi A31.6 TDI Sport Euro 6 (s/s) 3dr,Cork
+Audi A4 (ultra),Audi,09/10/2024,"€6,518.00",2015,"148,859",Saloon,Manual,Diesel,Blue Audi A42.0 TDI ultra SE Technik Euro 6 (s/s) 4dr,Wexford
+Audi A8 (TDI V6),Audi,10/10/2024,"€18,295.00",2014,"62,370",Saloon,Automatic,Diesel,Black Audi A83.0 TDI QUATTRO SPORT EXECUTIVE 4d 254 BHP,Kildare
+Audi A5 (TDI),Audi,13/10/2024,"€24,086.00",2018,37554,Hatchback,Automatic,Diesel,Blue Audi A52.0 TDI Ultra S Line 5dr S Tronic,Donegal
+Audi A3 Cabriolet (TFSI),Audi,2024-10-18,"€27,951.00",2019,"11,934",Convertible,Automatic,Petrol,Grey Audi A335 TFSI S Line 2dr S Tronic 1.5,Cork
+Audi SQ5 (BiTDI V6),Audi,18/10/2024,"€ 21,471",2015,"77,984",SUV,Automatic,Diesel,Navy Audi SQ53L BiTDI V6 5dr,Dublin
+Audi TT (S line Special Edition),Audi,19/10/2024,"€ 7,367",2010,"111,967",Coupe,Manual,Diesel,Silver Audi TT2.0 TDI S line Special Edition quattro Euro 4 3dr4 previous owners,Dublin
+Audi A3 (TFSI),Audi,19/10/2024,"€16,663.00",2016,"44,063",Saloon,Manual,Petrol,Silver Audi A31.4 TFSI S Line 4dr Satellite Navigation,Dublin
+Audi Q5 (S line),Audi,21/10/2024,"€33,130.00",2019,"25,532",SUV,Automatic,Diesel,Blue Audi Q5S line 40 TDI quattro 190 PS S tronic 2.0 5dr2 previous owners,Louth
+Audi A5 (TFSI),Audi,21/10/2024,"€23,923.00",2019,"36,975",Coupe,Manual,Petrol,Navy Audi A540 TFSI Black Edition 2dr 2.0,Dublin
+Audi A4 (TFSI),Audi,22/10/2024,"€8,795.00",2011,"94,031",Saloon,Automatic,Petrol,Silver Audi A4TFSI QUATTRO S LINE 2.0 4dr,Kerry
+Audi A4 (TDI),Audi,2024-10-23,"€14,176.00",2017,63195,Saloon,Manual,Diesel,Grey Audi A42.0 TDI Ultra 190 Sport 4dr Diesel Saloon,Clare
+Audi A3 (TFSI),Audi,24/10/2024,"€9,867.00",2014,"73,939",Hatchback,Manual,Petrol,Red Audi A31.4 TFSI S line Sportback Euro 5 (s/s) 5dr5 previous owners,Cavan
+Audi A4 Avant (TDI),Audi,2024-10-24,"€9,960.00",2010,"76,160",Estate,Manual,Diesel,Audi A42.0 AVANT TDI S LINE SPECIAL EDITION 5d 141 BHP,Cork
+Audi Q2 (S line),Audi,24/10/2024,"€23,643.00",2019,"14,850",SUV,Manual,Petrol,Black Audi Q235 TFSI S Line 5dr 1.51 previous owner,Cork
+Audi A5 Cabriolet (TDI),Audi,25/10/2024,"€2,880.00",2010,"138,617",Convertible,Manual,Diesel,Black Audi A5 Cabriolet2.0 TDI S line Euro 5 (s/s) 2dr4 previous owners,Westmeath
+Audi A4 Avant (ultra),Audi,26/10/2024,"€10,943.00",2014,"70,328",Estate,Manual,Diesel,Grey Audi A4 Avant2.0 TDI ultra SE Technik Euro 6 (s/s) 5dr,Kilkenny
+Audi RS6 Avant (TFSI V8),Audi,2024-10-26,"€41,494.00",2014,50624,Estate,Automatic,Petrol,Black Audi RS6 Avant4.0 TFSI V8 Tiptronic quattro Euro 5 (s/s) 5dr6 previous owners,Wexford
+Audi Q5 (S line Plus),Audi,27/10/2024,"€18,231.00",2015,"68,923",SUV,Automatic,Diesel,Red Audi Q52.0 TDI QUATTRO S LINE PLUS 5d 175 BHP2 previous owners,Kildare
+Audi A3 (Sport),Audi,28/10/2024,"€15,514.00",2018,33603,Saloon,Manual,Diesel,Black Audi A31.6L Sport TDI 4dr,Dublin
+Audi A3 (Sport),Audi,29/10/2024,"€8,006.00",2010,"51,310",Hatchback,Automatic,Petrol,Audi A31.4 TFSI Sport Sportback S Tronic Euro 5 (s/s) 5dr,Dublin
+Audi A7 (Black Edition),Audi,30/10/2024,"€14,858.00",2015,"126,757",Hatchback,Automatic,Diesel,Grey Audi A73.0 TDI V6 Black Edition Sportback S Tronic quattro Euro 6 (s/s) 5dr2 previous owners,Dublin
+Audi A6 Saloon (Black Edition),Audi,2024-11-02,"€18,719.00",2017,"91,538",Saloon,Automatic,Diesel,Audi A6 Saloon3.0 TDI V6 Black Edition S Tronic quattro Euro 6 (s/s) 4dr2 previous owners,Galway
+Audi A6 Avant (TDI V6),Audi,05/11/2024,"€7,863.00",2010,"127,008",Estate,Manual,Diesel,Red Audi A6 Avant3.0 TDI V6 S line Special Edition quattro Euro 5 5dr5 previous owners,Dublin
+Audi Q7 (S line),Audi,05/11/2024,"€17,077.00",2012,"88,293",SUV,Automatic,Diesel,Silver Audi Q73.0 TDI V6 S line Tiptronic quattro 5dr,Donegal
+Audi A3 (TDI),Audi,05/11/2024,"€4,713.00",2012,"116,054 miles",Hatchback,Manual,Diesel,Black Audi A31.6 TDI Sport Sportback Euro 5 (s/s) 5dr,Wicklow
+Audi Q5 (S line),Audi,08/11/2024,"€42,147.00",2021,"8,713",SUV,Automatic,Diesel,Red Audi Q540 TDI Quattro S Line 5dr S Tronic 2.0,Dublin
+Audi A6 Avant (TDI),Audi,08/11/2024,"€16,485.00",2017,"94,114",Estate,Automatic,Diesel,Red Audi A6 Avant2.0 TDI ultra S line S Tronic Euro 6 (s/s) 5dr,Limerick
+Audi A1 (S line),Audi,09/11/2024,"€11,224.00",2017,"73,894",Hatchback,Manual,Petrol,Black Audi A11.4 TFSI S-LINE 3d 148 BHP1 previous owner,Dublin
+Audi A3 (TDI),Audi,09/11/2024,"€4,265.00",2009,"110,397",Hatchback,Manual,Diesel,Audi A32.0 TDI S line Euro 4 3dr,Cork
+Audi Q7 (TDI V6),Audi,10/11/2024,"€ 19,718",2014,"100,381",SUV,Automatic,Diesel,Red Audi Q73.0 TDI V6 S line Style Edition Tiptronic quattro 5dr2 previous owners,Roscommon
+Audi Q3 (S line),Audi,2024-11-12,"€35,081.00",2020,8094,SUV,Automatic,Petrol,Blue Audi Q3S line 40 TFSI quattro 190 PS S tronic 2.0 5dr,Wicklow
+Audi A4 Avant (TFSI),Audi,12/11/2024,"€27,973.00",2019,15789,Estate,Automatic,Petrol,Audi A4Avant Black Edition 35 TFSI 150 PS S tronic 2.0 5dr,Dublin
+Audi A7 (Sport),Audi,13/11/2024,"€ 36,141",2019,"19,695",Hatchback,Automatic,Diesel,Navy Audi A7Sportback Sport 50 TDI quattro 286 PS tiptronic 3.0 5dr1 previous owner,Louth
+Audi A3 (Sport),Audi,2024-11-15,"€16,268.00",2018,"23,804",Hatchback,Manual,Petrol,"Grey Audi A31.5 TFSI SPORT 5d 148 BHP 7in Satellite Navigation Display, Apple CarPlay / Android Auto, Rear Parking Sensors, DAB / Bluetooth / USB, Dual-Zone Clima",Dublin
+Audi A5 (Sport),Audi,17/11/2024,"€40,368.00",2022,"1,147",Coupe,Automatic,Petrol,Black Audi A5Coup- Sport 35 TFSI 150 PS S tronic 2.0 2dr,Louth
+Audi A5 (TFSI),Audi,18/11/2024,"€34,746.00",2021,"10,025",Hatchback,Automatic,Petrol,Red Audi A535 TFSI S Line 5dr S Tronic 2.0,Kildare
+Audi A6 Saloon (TDI),Audi,19/11/2024,"€19,766.00",2017,"50,969",Saloon,Automatic,Diesel,Grey Audi A62.0 TDI Quattro Black Edition 4dr S Tronic,Kildare
+Audi TT (TFSI),Audi,2024-11-20,"€4,894.00",2008,128813,Convertible,Automatic,Petrol,Black Audi TT2.0 TFSI Roadster S Tronic Euro 4 2dr3 previous owners,Dublin
+Audi Q2 (Edition 1),Audi,2024-11-20,"€24,112.00",2018,"30,579",SUV,Automatic,Petrol,Blue Audi Q21.4 TFSI CoD Edition 1 SUV 5dr Petrol S Tronic Euro 6 (s/s) (150 ps),Dublin
+Audi A1 (SE),Audi,21/11/2024,"€17,259.00",2019,"21,605",Hatchback,Manual,Petrol,Navy Audi A1Sportback SE 25 TFSI 95 PS 5-speed 1.0 5dr,Donegal
+Audi A3 (TDI),Audi,21/11/2024,"€4,663.00",2011,"112,350",Hatchback,Manual,Diesel,Red Audi A32.0 TDI SPORT 3d 138 BHP,Dublin
+Audi Q3 (S line Plus),Audi,22/11/2024,"€ 16,274",2016,"74,071",SUV,Automatic,Diesel,Black Audi Q32.0 TDI S line Plus S Tronic quattro (s/s) 5dr2 previous owners,Kildare
+Audi A6 Saloon (TFSI),Audi,2024-11-22,"€16,722.00",2018,60586,Saloon,Automatic,Petrol,Silver Audi A6TFSI SE EXECUTIVE 4-Door 1.8 4dr,Mayo
+Audi Q8 (S line),Audi,23/11/2024,"€63,142.00",2022,"4,320",SUV,Automatic,Diesel,Audi Q850 TDI Quattro S Line 5dr Tiptronic 3.01 previous owner,Monaghan
+Audi A3 (Black Edition),Audi,25/11/2024,"€6,767.00",2009,"88,012 miles",Hatchback,Manual,Petrol,Silver Audi A3SPORTBACK TFSI S LINE SPECIAL EDITION 1.8 5dr,Donegal
+Audi A3 (Technik),Audi,2024-11-25,"€4,162.00",2009,"114,248",Hatchback,Automatic,Petrol,Black Audi A31.6 Technik S Tronic Euro 4 3dr3 previous owners,Dublin
+Audi Q7 (TDI V6),Audi,25/11/2024,"€34,134.00",2017,"50,505",SUV,Automatic,Diesel,Blue Audi Q73.0 TDI V6 S line Tiptronic quattro (s/s) 5dr,Donegal
+Audi A3 (Sport),Audi,27/11/2024,"€10,461.00",2017,"91,485 miles",Hatchback,Manual,Petrol,Red Audi A31.0 TFSI Sport Sportback Euro 6 (s/s) 5dr1 previous owner,Kildare
+Audi SQ5 (TFSI V6),Audi,27/11/2024,"€ 38,293",2018,"31,265",SUV,Automatic,Petrol,Red Audi Q53.0 TFSI quattro 354 PS tiptronic 5dr2 previous owners,Kildare
+Audi A4 Avant (Executive SE),Audi,27/11/2024,"€4,253.00",2008,"111,866",Estate,Manual,Diesel,Red Audi A4 Avant2.0 TDI Executive SE Euro 4 5dr1 previous owner,Dublin
+Audi A4 Avant (TDI),Audi,28/11/2024,"€14,714.00",2017,"83,858",Estate,Automatic,Diesel,Black Audi A4 Avant2.0 TDI ultra Sport Avant S Tronic (s/s) 5dr1 previous owner,Cork
+Audi RS5 (TFSI V6),Audi,28/11/2024,"€46,341.00",2018,"30,122",Coupe,Automatic,Petrol,"Red Audi A52.9 RS 5 TSFI QUATTRO 2d 444 BHP BANG & OLUFSEN! 20""s! BLACK PACK!1 previous owner",Dublin
+Audi Q5 (S line),Audi,01/12/2024,"€ 50,353",2022,"5,387",SUV,Automatic,Petrol,Audi Q545 TFSI Quattro S Line 5dr S Tronic 2.01 previous owner,Dublin
+Audi A1 (TFSI),Audi,02/12/2024,"€11,753.00",2017,"25,497",Hatchback,Manual,Petrol,Red Audi A11.0 TFSI SE 3d 93 BHP2 previous owners,Cork
+Audi A3 (TFSI),Audi,02/12/2024,"€16,941.00",2019,"43,804",Hatchback,Manual,Petrol,Red Audi A31.5 SPORTBACK TFSI SPORT 5d 148 BHP,Leitrim
+Audi A4 Avant (S line),Audi,02/12/2024,"€24,403.00",2019,"22,144",Estate,Manual,Petrol,Black Audi A4 AVANT35 TFSI S Line 5dr 2.01 previous owner,Cork
+Audi A5 Cabriolet (Vorsprung),Audi,02/12/2024,"€ 39,973",2020,"24,257 miles",Convertible,Automatic,Diesel,Audi A540 TDI Quattro Vorsprung 2dr S Tronic 2.01 previous owner,Dublin
+Audi SQ5 (BiTDI V6),Audi,04/12/2024,"€ 18,282",2014,"105,477",SUV,Automatic,Diesel,Audi SQ53.0 BiTDI V6 Tiptronic quattro Euro 5 (s/s) 5dr4 previous owners,Carlow
+Audi Q5 (S line Plus),Audi,04/12/2024,"€ 20,157",2016,"50,357",SUV,Automatic,Diesel,Black Audi Q52.0 TDI S line Plus S Tronic quattro Euro 6 (s/s) 5dr2 previous owners,Mayo
+Audi A6 Avant (S line),Audi,06/12/2024,"€ 36,408",2021,"15,268",Estate,Automatic,Diesel,Blue Audi A6Avant S line 40 TDI 204 PS S tronic 2.0 5dr,Kildare
+Audi A6 Avant (Black Edition),Audi,07/12/2024,"€24,953.00",2018,"38,918 miles",Estate,Automatic,Diesel,Audi A6 Avant2.0 TDI ultra Black Edition S Tronic Euro 6 (s/s) 5dr1 previous owner,Limerick
+Audi Q5 (Sport),Audi,07/12/2024,"€ 23,436",2018,"64,601 miles",SUV,Automatic,Diesel,Black Audi Q52.0 TDI QUATTRO SPORT 5d 188 BHP **QUATTRO** **DSG**2 previous owners,Clare
+Audi A6 Avant (S line),Audi,07/12/2024,"€27,162.00",2019,"66,178",Estate,Automatic,Diesel,Navy Audi A6Avant S line 40 TDI 204 PS S tronic 2.0 5dr,Cork
+Audi RS Q3 (Vorsprung),Audi,11/12/2024,"€59,637.00",2020,"16,562",SUV,Automatic,Petrol,Blue Audi RS Q3Sportback Vorsprung 400 PS S tronic 2.5 5dr2 previous owners,Tipperary
+Audi RS4 Avant (FSI V8),Audi,11/12/2024,"€29,366.00",2014,"57,100",Estate,Automatic,Petrol,Black Audi RS4 Avant4.2 FSI V8 S Tronic quattro Euro 5 5dr,Dublin
+Audi A4 Avant (Black Edition),Audi,11/12/2024,"€25,812.00",2017,"13,860 miles",Estate,Manual,Diesel,Red Audi A4 AvantAudi A4 Avant 2.0 TDI 190 Black Edition 5dr Tech Pack2 previous owners,Clare
+Audi A3 (CoD),Audi,13/12/2024,"€16,337.00",2019,"35,780",Hatchback,Manual,Petrol,Grey Audi A335 TFSI SE Technik 5dr 1.51 previous owner,Galway
+Audi Q2 (TFSI),Audi,2024-12-14,"€16,732.00",2017,"30,326",SUV,Manual,Petrol,Blue Audi Q2Audi Q2 1.0 TFSI 115 SE 5dr 2WD2 previous owners,Limerick
+Audi Q3 (CoD),Audi,15/12/2024,"€14,548.00",2016,"63,169",SUV,Manual,Petrol,Blue Audi Q31.4 TFSI CoD S line Euro 6 (s/s) 5dr3 previous owners,Tipperary
+Audi S3 (TFSI),Audi,16/12/2024,"€29,376.00",2018,"42,132",Hatchback,Automatic,Petrol,Blue Audi S3TFSI Quattro Black Edition 5dr S Tronic 2.0,Limerick
+Audi A6 Saloon (TDI V6),Audi,2024-12-17,"€29,413.00",2019,"45,007",Saloon,Automatic,Diesel,Black Audi A650 TDI Quattro S Line 4dr Tip Auto 3.0,Dublin
+Audi S3 (TFSI),Audi,17/12/2024,"€30,322.00",2017,"26,018",Saloon,Automatic,Petrol,Black Audi S32.0 TFSI Black Edition S Tronic quattro Euro 6 (s/s) 4dr1 previous owner,Louth
+Audi Q7 (S line),Audi,17/12/2024,"€31,164.00",2016,"49,376",SUV,Automatic,Diesel,Black Audi Q73.0 TDI QUATTRO S LINE 5d 215 BHP ELECTRIC TAILGATE2 previous owners,Donegal
+Audi A5 (S line),Audi,18/12/2024,"€23,036.00",2017,"19,336",Coupe,Automatic,Petrol,Blue Audi A5 COUPE2.0 TFSI S Line 2dr S Tronic1 previous owner,Galway
+Audi S3 (TFSI),Audi,20/12/2024,"€26,177.00",2019,40008,Hatchback,Automatic,Petrol,Grey Audi S32.0 TFSI Sportback S Tronic quattro Euro 6 (s/s) 5dr2 previous owners,Dublin
+Audi S5 (Black Edition),Audi,20/12/2024,"€19,831.00",2016,"61,833 miles",Hatchback,Automatic,Petrol,Grey Audi S5 Sportback3.0 Tfsi V6 Black Edition Sportback 5dr Petrol S Tronic Quattro Euro 6 (s/s) (333 Ps)2 previous owners,Dublin
+Audi Q3 (SE),Audi,20/12/2024,"€12,929.00",2015,"70,255",SUV,Manual,Diesel,Black Audi Q32.0 TDI SE 5dr2 previous owners,Dublin
+Audi Q7 (TDI V6),Audi,2024-12-21,"€58,376.00",2020,21975,SUV,Automatic,Diesel,"Navy Audi Q73.0 TDI QUATTRO S LINE BLACK EDITION 5d 282 BHP HUGE SPEC*1 KEEPER*22""ALLOYS1 previous owner",Monaghan
